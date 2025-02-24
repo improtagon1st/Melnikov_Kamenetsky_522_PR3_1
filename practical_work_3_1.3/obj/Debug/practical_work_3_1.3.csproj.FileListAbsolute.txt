@@ -1,0 +1,7 @@
+C:\Users\improtagon1st\source\repos\practical_work_3_1.3\practical_work_3_1.3\bin\Debug\practical_work_3_1.3.exe.config
+C:\Users\improtagon1st\source\repos\practical_work_3_1.3\practical_work_3_1.3\bin\Debug\practical_work_3_1.3.exe
+C:\Users\improtagon1st\source\repos\practical_work_3_1.3\practical_work_3_1.3\bin\Debug\practical_work_3_1.3.pdb
+C:\Users\improtagon1st\source\repos\practical_work_3_1.3\practical_work_3_1.3\obj\Debug\practical_work_3_1.3.csproj.AssemblyReference.cache
+C:\Users\improtagon1st\source\repos\practical_work_3_1.3\practical_work_3_1.3\obj\Debug\practical_work_3_1.3.csproj.CoreCompileInputs.cache
+C:\Users\improtagon1st\source\repos\practical_work_3_1.3\practical_work_3_1.3\obj\Debug\practical_work_3_1.3.exe
+C:\Users\improtagon1st\source\repos\practical_work_3_1.3\practical_work_3_1.3\obj\Debug\practical_work_3_1.3.pdb
